@@ -41,9 +41,9 @@ var app = new Framework7({
 		}
 		,
 		{
-			path: '/Reseñas/',
-			url: 'Reseñas.html',
-			name: 'Reseñas',
+			path: '/Resenas/',
+			url: 'Resenas.html',
+			name: 'Resenas',
 		}
 		,
 		{
@@ -53,9 +53,9 @@ var app = new Framework7({
 		}
 		,
 		{
-			path: '/Términos & Condiciones/',
-			url: 'Términos & Condiciones.html',
-			name: 'Términos & Condiciones',
+			path: '/Terminos & Condiciones/',
+			url: 'Terminos & Condiciones.html',
+			name: 'Terminos & Condiciones',
 		}
 		,
 		{

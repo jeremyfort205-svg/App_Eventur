@@ -504,11 +504,11 @@
 }
 
 .imagen_fondo {
-  background-image: url("/img/Nuestrosservicios.png");
-  background-size: cover;
-   background-position: center;
-  background-repeat: no-repeat;
-  padding-bottom: 40px;
+  background-image: url("../img/Nuestrosservicios.png");
+  background-size: cover !important;
+   background-position: center !important;
+  background-repeat: no-repeat !important;
+  padding-bottom: 40px !important;
 
 }
 
@@ -554,11 +554,11 @@
 }
 
 .imagen_viajes {
-  background-image: url("/img/viajes.png");
-  background-size: cover;
-   background-position: center;
-  background-repeat: no-repeat;
-  padding-bottom: 70px;
+  background-image: url("../img/viajes.png");
+  background-size: cover !important;
+   background-position: center !important;
+  background-repeat: no-repeat !important;
+  padding-bottom: 70px !important;
 
 
 
@@ -653,12 +653,12 @@
 }
 
 .imagen_avion {
-  background-image: url("/img/avion.png");
-  background-size: cover;
-   background-position: center;
-  background-repeat: no-repeat;
-  padding-bottom: 28px;
-  margin-top: -30px;
+  background-image: url("../img/avion.png");
+  background-size: cover !important;
+   background-position: center !important;
+  background-repeat: no-repeat !important;
+  padding-bottom: 28px !important;
+  margin-top: -30px !important;
 }
 
 .agencia_title {
