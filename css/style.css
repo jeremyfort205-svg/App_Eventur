@@ -1,0 +1,815 @@
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.demo-card-header-pic .card-content-padding .date {
+  color: #8e8e93;
+}
+
+.color-vino {
+  color: #700000
+}
+
+.navbar .title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0;
+}
+
+.navbar .title img {
+  max-height: 40px;
+  width: auto;
+}
+
+.inicio-1 {
+  background-color: #700000;
+  background-image: url("../img/fondo-1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.img-redonda {
+  border-radius: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+.padding-tp-1{
+  padding-top: 40px;
+}
+
+.quienes-txt{
+  text-align: center;
+  font-size: 25px;
+  font-family: poppins;
+  color: #700000;
+}
+
+.quienes-prf{
+  text-align: center;
+}
+
+.red-btn{
+  background-color: #700000;
+}
+
+.servicios-1{
+  background-color: #700000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.white{
+  color: #fff;
+}
+
+.yellow-btn{
+  background-color: #d08835;
+}
+
+.blogs-1{
+  color: #d08835;
+
+}
+
+.button-outline {
+    background-color: transparent; 
+    border: 2px solid #700000;    
+    color: #700000;                
+    transition: all 0.3s ease;     
+}
+
+.callto{
+  background-image: url("../img/calltoaction.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 230px;
+  margin-bottom: -40px !important;
+  padding-bottom: 0 !important;
+}
+
+.callto-txt{
+  padding-top: 40px;
+  ;text-shadow: #525255
+}
+
+.callto-title{
+  margin-top: -10px;
+  text-shadow: #525255
+}
+
+.texto_titulo_pequeno{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  margin: 0; 
+  line-height: 1;
+}
+
+
+.texto_titulo_grande{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin: 0; 
+  line-height: 1; 
+}
+
+
+.nosotros{
+  background-color: #700000;
+  padding: 30px ;
+}
+
+.card_misionyvision{
+  border-radius: 30px;
+  
+}
+
+.texto_parrafo{
+  font-size: 10px;
+  line-height: 1; 
+  margin: 0;
+  width: 100%;
+}
+
+.iconos_nosotros{
+  color: #d08835;
+}
+
+.titulo_mision{
+  font-size: 20px;
+  margin: 0;
+  
+}
+
+.padding_vision{
+  padding-bottom: 30px;
+}
+
+.titulo_valores_grande{
+  font-size: 40px;
+  color: #d08835;
+  text-align: center;
+  margin: 0; 
+  line-height: 1; 
+}
+
+.titulo_valores_pequeno{
+   font-size: 25px;
+  color: #d08835;
+  text-align: center;
+  margin: 0; 
+  line-height: 1;
+}
+
+.circulo-vino {
+  width: 70px;
+  height: 70px;
+  background-color:#700000;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.valor-nombre {
+  color: #700000;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0;
+}
+
+.icono-valores{
+  font-size: 45px;
+  color: white;
+}
+
+.valor-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo_nuestros_socios{
+  color: #d08835;
+  margin: 0; 
+  line-height: 1;
+  font-size: 30px;
+}
+
+#nuestros_valores{
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+
+#slider_convenios{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.avatar-circular-container {
+  width: 100px;          
+  height: 100px;         
+  background-color: #700000;
+  border-radius: 50%;    
+  overflow: hidden;      
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  border: 8px solid #700000; 
+}
+
+.avatar-circular-img {
+  width: 100%;            
+  height: 100%;          
+  object-fit: cover;      
+}
+
+.equipo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.texto_slider{
+  text-align: end;
+}
+
+.texto_card {
+  color: white;
+}
+
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.demo-card-header-pic .card-content-padding .date {
+  color: #8e8e93;
+}
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.titulo_nuestroserv {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: #d08835;
+  text-align: center;
+  line-height: 0px;
+}
+
+.text_ns {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #741414;
+  text-align: center;
+  padding-top: 20px;
+  font-size: smaller;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.imagen_fondo {
+  background-image: url("/img/Nuestrosservicios.png");
+  background-size: cover;
+   background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 40px;
+
+}
+
+.eventos_title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+  padding-top: 30px;
+  line-height: 0px;
+}
+
+.eventos_text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: xx-small;
+  padding-right: 20px;
+}
+
+.texto_bot {
+  color: #741414;
+  text-align: center;
+  font-size: 10px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 10px;
+  padding-right: 50px;
+  line-height: 5px;
+}
+
+.icono_eventos {
+  color: #741414;
+  font-size: 10px;
+  font-size: 10px;
+  padding-top: 2px;
+}
+
+.columna_event {
+  padding-top: 25px;
+
+}
+
+.imagen_viajes {
+  background-image: url(/img/viajes.png);
+  background-size: cover;
+   background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 70px;
+
+
+
+}
+
+.icono_viajes {
+  color: #d08835;
+  font-size: 10px;
+  font-size: 10px;
+  padding-top: 2px;
+}
+
+.texto_bot_viaje {
+  color: #d08835;
+  text-align: center;
+  font-size: 10px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 10px;
+  padding-right: 50px;
+  line-height: 5px;
+}
+
+.columna_viajes {
+  padding-top: 20px;
+
+}
+
+.eventtitle {
+  color: #741414;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+
+.text_eventos {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #741414;
+  text-align: center;
+  font-size: smaller;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 15px;
+  margin-top: -10px;
+}
+
+.card_text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+  font-size: 15px;
+}
+
+.lista {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.margin_top_card {
+  margin-top: -20px;
+}
+
+.button_color {
+  background-color: #741414;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.text_reserva_event {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #741414;
+  text-align: center;
+  line-height: 15px;
+}
+
+.viajestitle {
+  color: #d08835;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+
+.imagen_avion {
+  background-image: url(/img/avion.png);
+  background-size: cover;
+   background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 28px;
+  margin-top: -30px;
+}
+
+.agencia_title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: white;
+  font-size: 40px;
+  padding-top: 20px;
+  padding-bottom: -120px;
+  line-height: 45px;
+}
+
+.agencia_text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  margin-top: -20px;
+  font-size: 12px;
+}
+
+.column_padding {
+  padding-top: -100px;
+}
+
+.icon_cardsuno {
+  text-align: center;
+  font-size: 100px;
+  padding-top: 40px;
+  padding-left: 10px;
+}
+
+.card{
+  border-radius: 20px;
+}
+.card_pad{
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.card_title {
+  color: #741414;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 20px;
+  margin-top: 15px;
+}
+.card_list{
+  color: #741414;
+  margin-left: -25px;
+  margin-top: -20px;
+  line-height: 17px;
+}
+
+.icon_cardsdos {
+  text-align: center;
+  font-size: 200px;
+  padding-top: 50px;
+  padding-left: 10px;
+}
+
+.button_color_dos {
+  background-color:#d08835;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.imagen-col {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.mi-form input::placeholder {
+  color: rgba(255, 171, 171, 0.6) !important;
+}
+
+.mi-form textarea::placeholder {
+  color: rgba(255, 171, 171, 0.6) !important;
+}
+
+.tituloterminos {
+  color: #741414;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+}
+
+
+.textoterminos1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  text-align: justify;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.division {
+  width: 90%;           
+  height: 8px;          
+  background-color: #d08835; 
+  margin: 20px auto;    
+  border-radius: 10px;  
+  margin-top: 60px; 
+}
+
+.icononumero{
+  width: 40px;              
+  height: 40px;
+  background-color: #741414; 
+  color: white;
+  display: flex;
+  align-items: center;      
+  justify-content: center;  
+  border-radius: 50%;       
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-weight: 700;    
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;     
+}
+
+.textonegro {
+  color: #000000;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  
+
+}
+
+.tituloseccion {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.subtituloterminos {
+  color: #741414;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: left;
+  font-size: large;
+}
+
+
