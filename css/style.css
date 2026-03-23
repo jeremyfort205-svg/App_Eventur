@@ -554,7 +554,7 @@
 }
 
 .imagen_viajes {
-  background-image: url(/img/viajes.png);
+  background-image: url("/img/viajes.png");
   background-size: cover;
    background-position: center;
   background-repeat: no-repeat;
@@ -653,7 +653,7 @@
 }
 
 .imagen_avion {
-  background-image: url(/img/avion.png);
+  background-image: url("/img/avion.png");
   background-size: cover;
    background-position: center;
   background-repeat: no-repeat;
