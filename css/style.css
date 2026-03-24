@@ -504,7 +504,7 @@
 }
 
 .imagen_fondo {
-  background-image: url("../img/Nuestrosservicios.png");
+  background-image: url("../img/Nuestrosservicios.jpeg");
   background-size: cover !important;
    background-position: center !important;
   background-repeat: no-repeat !important;
@@ -554,7 +554,7 @@
 }
 
 .imagen_viajes {
-  background-image: url("../img/viajes.png");
+  background-image: url("../img/viajes.jpeg");
   background-size: cover !important;
    background-position: center !important;
   background-repeat: no-repeat !important;
@@ -653,7 +653,7 @@
 }
 
 .imagen_avion {
-  background-image: url("../img/avion.png");
+  background-image: url("../img/avion.jpeg");
   background-size: cover !important;
    background-position: center !important;
   background-repeat: no-repeat !important;
